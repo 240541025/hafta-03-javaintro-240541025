@@ -1,4 +1,4 @@
-public class ASCIIArt {
+public class asciiart {
     public static void main(String[] args) {
         System.out.println("-------------------");
         System.out.println("  M Harfi ASCII Art  ");
@@ -12,3 +12,4 @@ public class ASCIIArt {
         System.out.println("M   M");
     }
 }
+
